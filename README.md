@@ -2,11 +2,20 @@
 
 Projeto 1: Ciência dos Dados Insper 2022-2
 
-Adicione aqui uma breve descrição do seu projeto, os membros do time e links para os principais arquivos (notebooks ou não) a serem acessados para compreensão do projeto.
+Autoras: 
+- Alexia Pires
+- Ellen Coutinho Lião da Silva
 
-Leia o enunciado e os arquivos `README.md` dentro de cada pasta!
+O nosso tema é a relevância da Alta e da Queda da moeda americana, o Dólar! Pegamos nossa base de dados no site MoneyTimes, extraímos e classificamos manualmente notícias acerca deste tema.
 
-Sinta-se livre para alterar este `README.md`!
+Utilizamos a seguinte classificação:
+- Target 0 = neutro
+- Target 1 = positivo
+- Target 2 = negativo
+
+Para saber mais acesse a pasta "notebooks" -> "relatório do modelo" para visualizar o projeto
+
+
 
 ## Status das entregas
 
